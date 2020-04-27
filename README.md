@@ -10,10 +10,10 @@ Once the game is started, one of the  questions and multiple options in the form
 
 ![alt text](https://github.com/ritesh1869/Quiz-App/blob/master/images/Screen%20Shot%202020-04-27%20at%203.38.07%20PM.png)
 
-Answer can be selected by clicking on the  buttons. Background color anc button color changes based on the selection.
+Answer can be selected by clicking on the  buttons. Background color and button color changes based on the selection.
 If there are more questions left, next button is diplayed which can be used to display next question.
 
-![alt text](https://github.com/ritesh1869/Quiz-App/blob/master/images/Screen%20Shot%202020-04-27%20at%203.16.20%20PM.png)
+![alt text](https://github.com/ritesh1869/Quiz-App/blob/master/images/Screen%20Shot%202020-04-27%20at%203.41.51%20PM.png)
 
 If there are no new questions left, game be restarted using restart button.
 

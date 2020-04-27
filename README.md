@@ -15,6 +15,6 @@ If there are more questions left, next button is diplayed which can be used to d
 
 ![alt text](https://github.com/ritesh1869/Quiz-App/blob/master/images/Screen%20Shot%202020-04-27%20at%203.41.51%20PM.png)
 
-If there are no new questions left, game be restarted using restart button.
+If there are no new questions, game can be restarted using restart button.
 
 ![alt text](https://github.com/ritesh1869/Quiz-App/blob/master/images/Screen%20Shot%202020-04-27%20at%203.38.10%20PM.png)

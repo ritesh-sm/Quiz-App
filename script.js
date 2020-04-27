@@ -83,10 +83,10 @@ const questions = [
         ]
     },
     {
-        question: 'Covid-19 is?',
+        question: 'Is Covid-19 Pandemic driving us to drink more?',
         answers: [
-            { text:'Pandemic', correct: true},
-            { text:'Beer', correct: false}
+            { text:'Yes', correct: true},
+            { text:'No', correct: false}
         ]
     }
 ]

@@ -1,5 +1,7 @@
 # Quiz-App
 
+GitHub Pages link: https://ritesh1869.github.io/Quiz-App/
+
 It is a quiz app that was created using best practices in Javascript, HTML and CSS.
 
 It has a start button to being the game.
